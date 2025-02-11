@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Momen Samir
-- 👀 I’m interested in software and Nubian Language 
-- 🌱 I’m currently learning Business Intelligence 
-- 💞️ I’m looking to collaborate to be a Business Intelligence Developer
+- 👋 Hi, I’m Momen Talosh
+- 👀 I’m interested in Data and Nubian Language 
+- 🌱 I’m currently learning Data Engineering 
+- 💞️ I’m looking to collaborate to be a Data Engineer 
 - 📫 reach me : comm.momensamir@alexu.edu.eg
 <!---
 mtalosh/mtalosh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
